@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138868855012",
+    "project_id": "movies-app-162b3",
+    "storage_bucket": "movies-app-162b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138868855012:android:438b98562869602f455cf1",
+        "android_client_info": {
+          "package_name": "com.example.zupay_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138868855012-t2vm0dvcgb2d9po2bu4ht2gtfqegb6mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd-82fiinPFm96ey8gdJAW4Pv06qNNzZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138868855012-t2vm0dvcgb2d9po2bu4ht2gtfqegb6mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
